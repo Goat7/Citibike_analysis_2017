@@ -21,3 +21,7 @@ Bike Sharing Analysis 2017
 ![1](https://github.com/Goat7/Citibike_analysis_2017/blob/master/citibike%20-%20TopTen_Stations.PNG)
 
 ![1](https://github.com/Goat7/Citibike_analysis_2017/blob/master/citibike%20-%20UserType_Proportion.PNG)
+
+![1](https://github.com/Goat7/Citibike_analysis_2017/blob/master/citibike%20-%20dashboard1.PNG)
+
+![1](https://github.com/Goat7/Citibike_analysis_2017/blob/master/citibike%20-%20dashboard2.PNG)
