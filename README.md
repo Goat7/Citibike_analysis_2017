@@ -15,3 +15,6 @@ Bike Sharing Analysis 2017
 ![1](https://github.com/Goat7/Citibike_analysis_2017/blob/master/citibike%20-%20SummerRide_Peak_Hrs.PNG)
 
 ![1](https://github.com/Goat7/Citibike_analysis_2017/blob/master/citibike%20-%20WinterRide_PeakHrs.PNG)
+
+![1](https://github.com/Goat7/Citibike_analysis_2017/blob/master/citibike%20-%20TopTen_EndingStations.PNG)
+
