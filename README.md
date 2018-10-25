@@ -18,3 +18,4 @@ Bike Sharing Analysis 2017
 
 ![1](https://github.com/Goat7/Citibike_analysis_2017/blob/master/citibike%20-%20TopTen_EndingStations.PNG)
 
+![1](https://github.com/Goat7/Citibike_analysis_2017/blob/master/citibike%20-%20TopTen_Stations.PNG)
