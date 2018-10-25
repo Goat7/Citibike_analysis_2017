@@ -10,3 +10,4 @@ Bike Sharing Analysis 2017
 
 ![1](https://github.com/Goat7/Citibike_analysis_2017/blob/master/citibike%20-%20Gender.PNG)
 
+![1](https://github.com/Goat7/Citibike_analysis_2017/blob/master/citibike%20-%20RiderShip_Growth.PNG)
