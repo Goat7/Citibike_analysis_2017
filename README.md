@@ -27,3 +27,5 @@ Bike Sharing Analysis 2017
 ![1](https://github.com/Goat7/Citibike_analysis_2017/blob/master/citibike%20-%20dashboard2.PNG)
 
 ![1](https://github.com/Goat7/Citibike_analysis_2017/blob/master/citibike%20-%20numberOfTrips.PNG)
+
+![](https://github.com/Goat7/Citibike_analysis_2017/blob/master/citibike%20-female_ridership.PNG)
